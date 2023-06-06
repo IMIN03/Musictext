@@ -1,0 +1,17 @@
+{
+  "IPhone": {
+    "sounds": [
+      "IPhone"
+    ]
+  },
+  "WindowsXP": {
+    "sounds": [
+      "WindowsXP"
+    ]
+  },
+  "BadLuck": {
+    "sounds": [
+      "BadLuck"
+    ]
+  }
+}
